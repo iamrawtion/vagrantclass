@@ -1,0 +1,2 @@
+# vagrantclass
+Assignments for Vagrant
